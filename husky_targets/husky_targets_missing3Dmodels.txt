@@ -1,0 +1,11 @@
+### Missing 3D models - created on 2025-04-28 22:24
+### Printed by checking_3D_models plugin
+Board file: /home/archiver/storage/projects/husky_targets/husky_targets/husky_targets.kicad_pcb
+3D missing models written to:
+/home/archiver/storage/projects/husky_targets/husky_targets/husky_targets_missing3Dmodels.txt
+-------
+('J2', '/usr/share/kicad/3dmodels/Connector_USB.3dshapes/USB_C_Receptacle_G-Switch_GT-USB-7010ASV.wrl')
+('U1', '${KISYS3DMOD}/Package_DFN_QFN.3dshapes/QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm.wrl')
+-------
+NUM of 3D missing models:2
+checked extensions ['.stp', '.step', '.stpZ']
